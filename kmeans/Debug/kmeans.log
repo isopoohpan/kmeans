@@ -1,0 +1,6 @@
+﻿  kmeans.cpp
+c:\repos\kmeans\kmeans\kmeans.cpp(72): warning C4305: 'initializing': truncation from 'int' to 'float'
+c:\repos\kmeans\kmeans\kmeans.cpp(78): warning C4305: 'initializing': truncation from 'int' to 'float'
+c:\repos\kmeans\kmeans\kmeans.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\repos\kmeans\kmeans\kmeans.cpp(104): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  kmeans.vcxproj -> C:\repos\kmeans\Debug\kmeans.exe
